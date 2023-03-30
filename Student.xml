@@ -23,7 +23,7 @@
 		<Points />
 	</Lessons>
 	<Lessons>
-		<LessonsName ="Biology, Math"/>
+		<LessonsName value="Biology, Math"/>
 		<LectorInfo>Bruce Lee</LectorInfo>
 		<Points>5</Points>
 	</Lessons>
